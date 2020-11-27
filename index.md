@@ -2,7 +2,7 @@
   
 <div align="center">
  <h1>
-    
+    The Ultimate AdBlocker for all your AdBlocking needs.
   </h1>
 
   <p>
