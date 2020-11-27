@@ -2,3 +2,6 @@ title: AdSword
 description: A simple AdBlocker for all your ad blocking needs that respects your privacy. 
 show_downloads: true 
 theme: jekyll-theme-cayman
+favicon:
+  source: 128-icon.png
+  path: /assets/img
