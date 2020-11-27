@@ -11,7 +11,6 @@
 </div>
 This is a simple Chrome Extension that you can trust that does not require special permissions.
 <div align="center">
-  </a>
 </div>
 
 I have recently made this extension, so be sure to check for updates!
