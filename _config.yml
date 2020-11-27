@@ -1,5 +1,5 @@
 title: AdSword
 description: A simple AdBlocker for all your ad blocking needs that respects your privacy. 
 show_downloads: true 
-theme: jekyll-theme-cayman
 footer_text: Copyright 2020 Tamoghna Kommaraju
+remote_theme: sylhare/Type-on-Strap  
