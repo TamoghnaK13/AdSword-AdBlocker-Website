@@ -4,4 +4,3 @@ show_downloads: true
 theme: jekyll-theme-cayman
 favicon:
   source: 128-icon.png
-  path: /root/128-icon.png
