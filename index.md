@@ -31,7 +31,7 @@ I have recently made this extension, so be sure to check for updates!
 <dl>
   <dt>Updates</dt>
   <dd>
-Updates will come around once a month with new features, bug fixes, and other changes that are necessary.
+Updates will come around once a month with new features, bug fixes, and other changes.
   </dd>
 </dl>
 ## TODO
