@@ -45,4 +45,4 @@ If you have any questions or comments, please email me at tamoghnak13@gmail.com.
 
 
 [**Tamoghna Kommaraju**](https://github.com/TamoghnaK13), [**AdSword**](https://github.com/TamoghnaK13/AdSword-Ad-Blocker)
-google-site-verification: googlefec64d8694b0ea2e.html
+
