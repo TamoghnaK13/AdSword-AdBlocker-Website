@@ -1,9 +1,5 @@
 <link rel="shortcut icon" type="128-icon.png" href="favicon.ico">
 <a href="https://github.com/TamoghnaK13/AdBlockify">
-  <audio controls autostart="true">
-  <source src="horse.ogg" type="audio/ogg">
-  <source src="horse.mp3" type="audio/mpeg">
-</audio>
 <div align="center">
  <h1>
     The Ultimate AdBlocker for your browser
