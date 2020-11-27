@@ -4,3 +4,6 @@ show_downloads: true
 theme: jekyll-theme-cayman
 favicon:
   source: 128-icon.png
+  header_text: AdSword
+header_feature_image: 128-icon.png
+footer_text: Copyright 2020 Tamoghna Kommaraju
