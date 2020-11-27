@@ -1,3 +1,4 @@
+<link rel="shortcut icon" type="128-icon.png" href="favicon.ico">
 <a href="https://github.com/TamoghnaK13/AdBlockify">
   
 <div align="center">
