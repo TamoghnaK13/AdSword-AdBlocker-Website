@@ -11,8 +11,6 @@
 </div>
 This is a simple Chrome Extension that you can trust that does not require special permissions.
 <div align="center">
-  <a href="https://github.com/TamoghnaK13/AdBlockify">
-    <img src="icon.png" alt="AdBlockify">
   </a>
 </div>
 
