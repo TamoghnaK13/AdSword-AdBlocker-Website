@@ -44,5 +44,5 @@ This project is licensed under the [**MIT License**](https://en.wikipedia.org/wi
 If you have any questions or comments, please email me at tamoghnak13@gmail.com. I'd be happy to hear your thoughts.
 
 
-[**Tamoghna Kommaraju**](https://github.com/TamoghnaK13), [**AdSword**](https://github.com/TamoghnaK13/AdSword-Ad-Blocker)
+[**Tamoghna Kommaraju**](https://www.tamoghnak.tk), [**AdSword**](https://github.com/TamoghnaK13/AdSword-Ad-Blocker)
 
